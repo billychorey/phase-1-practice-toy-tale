@@ -21,6 +21,10 @@ body {
   margin: 2rem;
 }
 
+img {
+  max-width: 100%;
+}
+
 .card {
   text-align: center;
   border: grey solid 1px;
